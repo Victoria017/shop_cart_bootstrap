@@ -1,4 +1,7 @@
+body {
+    overflow: hidden;
 
+}
 .card-menu {
     z-index: 1;
     top: -12px;
